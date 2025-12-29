@@ -1,6 +1,6 @@
 ﻿//内容为网络上采集，低调使用。
 {
-   "spider": "https://raw.nuaa.cf/zgyd11/xiangjiao/main/jar/yifabox.jar",
+   "spider": "https://raw.githubusercontent.com/eafeen/dbtv/refs/heads/main/jar/yifabox.jar",
    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
    "warningText": "资源来自网络，大街上，请勿用于违法及出售，请勿付费购买。",
    "sites": [
@@ -319,3 +319,4 @@
     }
   ]
 }
+
